@@ -7,3 +7,6 @@ Tecnologias utilizadas:
 
 ## Status:
 > Concluído ✔️
+
+## Projeto:
+https://site-jquery.netlify.app/
